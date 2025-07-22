@@ -18,7 +18,7 @@ Wszystkie funkcje zawierają komentarze techniczne wyjaśniające działanie kro
 
 ### 🧪 Testy
 
-W katalogu `test/test_prefix_trie.c` znajduje się zestaw testów funkcjonalnych. Uruchamiane są przyciskiem ▶️ w Visual Studio Code.
+W katalogu `test/test_prefix_trie.c` znajduje się zestaw testów funkcjonalnych.
 
 Zakres testów:
 - dodanie i sprawdzenie prefiksu
